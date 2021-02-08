@@ -1,4 +1,4 @@
-# ascii
+# asciigo
 a command line tool to print ascii
 
 ## Install
